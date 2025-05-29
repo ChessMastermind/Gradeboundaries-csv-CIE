@@ -38,7 +38,7 @@ Cambridge International publishes grade thresholds separately for each paper and
 
 ## 📎 Access the CSV
 
-[![Download CSV](https://github.com/ChessMastermind/Gradeboundaries-csv-CIE/blob/main/cie_grade_boundaries.csv)
+[Download CSV](https://github.com/ChessMastermind/Gradeboundaries-csv-CIE/blob/main/cie_grade_boundaries.csv)
 
 ---
 
