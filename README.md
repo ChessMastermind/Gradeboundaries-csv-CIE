@@ -49,7 +49,7 @@ Cambridge International publishes grade thresholds separately for each paper and
 ---
 
 **Contributions welcome!**  
-Spot a missing subject or series? Please open an issue or submit a pull request.  
+Spot a missing subject or series? Please dm me on reddit.  
 
 Dm me on reddit if you have any suggestions or questions: 
 [Reddit](https://www.reddit.com/u/Normal_cat12345/s/dnFIqTHMDO)
