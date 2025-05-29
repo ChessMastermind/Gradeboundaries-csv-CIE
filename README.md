@@ -16,7 +16,7 @@ Cambridge International publishes grade thresholds separately for each paper and
 | Column          | Description                                                |
 |-----------------|------------------------------------------------------------|
 | `year`          | Exam year (2021, 2022, 2023, 2024, 2025)                   |
-| `series`        | Always `march`                                             |
+| `series`        | `march` / `November` /  `june`                             |
 | `subject_code`  | CIE subject code (e.g., 9701 for Chemistry)                |
 | `subject`       | Subject name (e.g., Chemistry, Economics, Biology…)        |
 | `component`     | Paper/component number (e.g., 12, 22, 42…)                 |
