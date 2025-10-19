@@ -1,4 +1,462 @@
 SubjectCode,Subject,Series,Component,MaxRawMark,A,B,C,D,E
+9706,Accounting,june-2025,11,30,21,16,14,12,11
+9706,Accounting,june-2025,12,30,22,18,15,13,11
+9706,Accounting,june-2025,13,30,21,16,14,12,11
+9706,Accounting,june-2025,21,90,61,51,41,31,20
+9706,Accounting,june-2025,22,90,63,53,42,31,20
+9706,Accounting,june-2025,23,90,61,51,41,31,20
+9706,Accounting,june-2025,31,75,44,35,32,28,24
+9706,Accounting,june-2025,32,75,44,35,32,28,24
+9706,Accounting,june-2025,33,75,44,35,32,28,24
+9706,Accounting,june-2025,41,50,36,32,27,23,18
+9706,Accounting,june-2025,42,50,36,32,27,23,18
+9706,Accounting,june-2025,43,50,36,32,27,23,18
+9680,Arabic A Level,june-2025,22,70,44,38,32,26,20
+9680,Arabic A Level,june-2025,32,40,33,29,25,21,17
+9680,Arabic A Level,june-2025,42,75,53,48,44,40,36
+9680,Arabic A Level,june-2025,52,40,34,30,26,22,19
+8680,Arabic Language AS Level,june-2025,22,70,38,32,26,20,14
+8680,Arabic Language AS Level,june-2025,32,40,29,25,21,17,13
+9479,Art and Design,june-2025,01,100,75,65,55,45,35
+9479,Art and Design,june-2025,02,100,72,62,52,42,32
+9479,Art and Design,june-2025,03,100,75,65,55,45,35
+9484,Biblical Studies,june-2025,12,50,35,32,28,25,22
+9484,Biblical Studies,june-2025,22,50,32,29,26,23,20
+9484,Biblical Studies,june-2025,32,50,33,29,25,21,18
+9484,Biblical Studies,june-2025,42,50,38,33,29,24,19
+9700,Biology,june-2025,11,40,32,29,26,23,20
+9700,Biology,june-2025,12,40,32,27,24,21,18
+9700,Biology,june-2025,13,40,32,28,25,22,20
+9700,Biology,june-2025,14,40,33,27,24,21,18
+9700,Biology,june-2025,21,60,35,30,24,19,13
+9700,Biology,june-2025,22,60,32,28,23,18,12
+9700,Biology,june-2025,23,60,37,33,28,23,18
+9700,Biology,june-2025,24,60,35,31,26,21,15
+9700,Biology,june-2025,31,40,30,28,25,23,21
+9700,Biology,june-2025,32,40,31,29,26,24,22
+9700,Biology,june-2025,33,40,28,24,21,19,17
+9700,Biology,june-2025,34,40,29,26,24,22,20
+9700,Biology,june-2025,35,40,33,30,28,26,24
+9700,Biology,june-2025,37,40,28,24,21,19,17
+9700,Biology,june-2025,38,40,29,26,24,22,20
+9700,Biology,june-2025,41,100,66,54,47,39,31
+9700,Biology,june-2025,42,100,62,52,43,34,24
+9700,Biology,june-2025,43,100,60,49,42,34,25
+9700,Biology,june-2025,44,100,62,54,47,39,31
+9700,Biology,june-2025,50,75,54,45,38,31,25
+9700,Biology,june-2025,51,30,19,16,14,12,10
+9700,Biology,june-2025,52,30,16,13,11,9,7
+9700,Biology,june-2025,53,30,21,16,13,11,9
+9700,Biology,june-2025,54,30,16,13,11,10,8
+9609,Business,june-2025,11,40,35,32,28,25,22
+9609,Business,june-2025,12,40,35,33,30,27,25
+9609,Business,june-2025,13,40,34,32,29,26,24
+9609,Business,june-2025,21,60,40,36,33,29,25
+9609,Business,june-2025,22,60,46,41,37,33,28
+9609,Business,june-2025,23,60,47,42,38,34,29
+9609,Business,june-2025,31,60,38,36,32,27,22
+9609,Business,june-2025,32,60,39,37,34,30,25
+9609,Business,june-2025,33,60,39,37,34,30,25
+9609,Business,june-2025,41,40,30,28,24,20,17
+9609,Business,june-2025,42,40,23,21,19,17,16
+9609,Business,june-2025,43,40,30,28,24,20,17
+9609,Business,june-2025,50,75,54,45,36,27,18
+9609,Business,june-2025,60,75,54,45,36,27,18
+9980,Cambridge International Project,june-2025,01,80,57,50,43,36,30
+9701,Chemistry,june-2025,11,40,26,23,19,15,11
+9701,Chemistry,june-2025,12,40,27,24,20,16,12
+9701,Chemistry,june-2025,13,40,29,27,22,17,13
+9701,Chemistry,june-2025,14,40,27,25,20,16,12
+9701,Chemistry,june-2025,21,60,41,32,25,19,13
+9701,Chemistry,june-2025,22,60,39,30,24,19,14
+9701,Chemistry,june-2025,23,60,41,32,26,20,13
+9701,Chemistry,june-2025,24,60,41,31,26,20,14
+9701,Chemistry,june-2025,31,40,26,24,20,16,12
+9701,Chemistry,june-2025,32,40,25,23,18,14,10
+9701,Chemistry,june-2025,33,40,22,18,17,14,12
+9701,Chemistry,june-2025,34,40,25,20,17,14,12
+9701,Chemistry,june-2025,35,40,26,24,20,16,12
+9701,Chemistry,june-2025,37,40,22,18,17,14,12
+9701,Chemistry,june-2025,38,40,25,20,17,14,12
+9701,Chemistry,june-2025,41,100,70,60,49,37,25
+9701,Chemistry,june-2025,42,100,69,54,44,33,22
+9701,Chemistry,june-2025,43,100,70,60,49,37,25
+9701,Chemistry,june-2025,44,100,70,58,47,36,25
+9701,Chemistry,june-2025,50,75,55,45,39,33,28
+9701,Chemistry,june-2025,51,30,19,17,14,12,10
+9701,Chemistry,june-2025,52,30,22,20,17,14,11
+9701,Chemistry,june-2025,53,30,19,17,14,12,10
+9701,Chemistry,june-2025,54,30,22,20,17,14,11
+9868,Chinese Language and Literature A Level,june-2025,12,40,35,32,29,24,20
+9868,Chinese Language and Literature A Level,june-2025,22,40,28,24,20,17,14
+9868,Chinese Language and Literature A Level,june-2025,32,40,28,24,20,17,14
+8238,Chinese Language AS Level,june-2025,04,65,53,49,43,37,32
+8238,Chinese Language AS Level,june-2025,12,40,28,24,21,17,13
+8238,Chinese Language AS Level,june-2025,22,40,27,23,19,16,12
+8238,Chinese Language AS Level,june-2025,32,40,32,28,24,21,18
+9618,Computer Science,june-2025,11,75,50,44,37,30,22
+9618,Computer Science,june-2025,12,75,50,45,37,29,22
+9618,Computer Science,june-2025,13,75,53,48,40,33,25
+9618,Computer Science,june-2025,21,75,49,42,34,26,19
+9618,Computer Science,june-2025,22,75,50,43,35,27,19
+9618,Computer Science,june-2025,23,75,62,58,50,42,35
+9618,Computer Science,june-2025,31,75,43,34,28,21,14
+9618,Computer Science,june-2025,32,75,43,36,29,22,14
+9618,Computer Science,june-2025,33,75,43,34,28,21,14
+9618,Computer Science,june-2025,41,75,53,42,34,26,18
+9618,Computer Science,june-2025,42,75,54,42,34,26,18
+9618,Computer Science,june-2025,43,75,53,42,34,26,18
+9618,Computer Science,june-2025,50,75,54,45,36,27,18
+9618,Computer Science,june-2025,60,75,54,45,36,27,18
+9705,Design and Technology,june-2025,02,50,43,38,33,29,25
+9705,Design and Technology,june-2025,04,50,43,38,33,29,25
+9705,Design and Technology,june-2025,11,100,75,70,64,58,52
+9705,Design and Technology,june-2025,12,100,75,70,64,58,52
+9705,Design and Technology,june-2025,13,100,75,70,64,58,52
+9705,Design and Technology,june-2025,31,100,73,68,63,57,50
+9705,Design and Technology,june-2025,32,100,73,68,63,57,50
+9705,Design and Technology,june-2025,33,100,73,68,63,57,50
+9481,Digital Media & Design,june-2025,01,100,70,60,49,38,28
+9481,Digital Media & Design,june-2025,02,100,70,60,49,39,28
+9481,Digital Media & Design,june-2025,03,100,70,60,50,39,28
+9482,Drama,june-2025,02,60,50,44,37,31,25
+9482,Drama,june-2025,03,60,51,45,39,33,26
+9482,Drama,june-2025,04,60,48,39,33,26,20
+9482,Drama,june-2025,11,60,39,34,29,24,19
+9482,Drama,june-2025,12,60,39,34,29,24,19
+9482,Drama,june-2025,13,60,39,34,29,24,19
+9708,Economics,june-2025,11,30,25,21,17,14,11
+9708,Economics,june-2025,12,30,23,20,17,14,11
+9708,Economics,june-2025,13,30,24,20,17,14,11
+9708,Economics,june-2025,14,30,23,20,17,14,11
+9708,Economics,june-2025,21,60,23,20,17,13,10
+9708,Economics,june-2025,22,60,26,23,19,16,13
+9708,Economics,june-2025,23,60,24,20,16,12,9
+9708,Economics,june-2025,24,60,25,21,18,15,12
+9708,Economics,june-2025,31,30,22,18,16,13,11
+9708,Economics,june-2025,32,30,23,20,18,16,14
+9708,Economics,june-2025,33,30,22,18,16,13,11
+9708,Economics,june-2025,34,30,22,20,18,16,14
+9708,Economics,june-2025,41,60,35,31,29,27,24
+9708,Economics,june-2025,42,60,35,31,28,25,22
+9708,Economics,june-2025,43,60,35,31,29,27,24
+9708,Economics,june-2025,44,60,33,30,27,24,21
+9708,Economics,june-2025,50,75,47,40,34,28,22
+9708,Economics,june-2025,60,75,55,47,38,29,20
+8021,English General Paper AS Level,june-2025,11,30,22,19,17,15,13
+8021,English General Paper AS Level,june-2025,12,30,22,19,17,15,13
+8021,English General Paper AS Level,june-2025,13,30,22,19,17,15,13
+8021,English General Paper AS Level,june-2025,21,50,29,26,23,19,16
+8021,English General Paper AS Level,june-2025,22,50,30,28,26,23,21
+8021,English General Paper AS Level,june-2025,23,50,30,28,25,21,18
+9093,English Language A Level,june-2025,11,50,34,29,26,22,18
+9093,English Language A Level,june-2025,12,50,34,29,26,22,18
+9093,English Language A Level,june-2025,13,50,34,29,26,22,18
+9093,English Language A Level,june-2025,21,50,33,28,24,21,18
+9093,English Language A Level,june-2025,22,50,33,28,24,21,18
+9093,English Language A Level,june-2025,23,50,33,28,24,21,18
+9093,English Language A Level,june-2025,31,50,35,30,26,20,15
+9093,English Language A Level,june-2025,32,50,35,30,26,20,15
+9093,English Language A Level,june-2025,33,50,35,30,26,20,15
+9093,English Language A Level,june-2025,41,50,35,29,24,20,16
+9093,English Language A Level,june-2025,42,50,35,29,24,20,16
+9093,English Language A Level,june-2025,43,50,35,29,24,20,16
+8291,Environmental Management AS Level,june-2025,11,80,58,51,48,44,40
+8291,Environmental Management AS Level,june-2025,12,80,54,46,41,36,31
+8291,Environmental Management AS Level,june-2025,13,80,54,46,41,36,31
+8291,Environmental Management AS Level,june-2025,21,80,52,47,41,36,31
+8291,Environmental Management AS Level,june-2025,22,80,53,47,41,36,31
+8291,Environmental Management AS Level,june-2025,23,80,53,47,41,36,31
+9898,French Language and Literature A Level,june-2025,11,40,32,28,25,21,17
+9898,French Language and Literature A Level,june-2025,12,40,32,28,25,21,17
+9898,French Language and Literature A Level,june-2025,13,40,32,28,25,21,17
+9898,French Language and Literature A Level,june-2025,21,40,29,25,21,18,15
+9898,French Language and Literature A Level,june-2025,22,40,29,25,21,18,15
+9898,French Language and Literature A Level,june-2025,23,40,29,25,21,18,15
+9898,French Language and Literature A Level,june-2025,31,40,30,26,22,19,16
+9898,French Language and Literature A Level,june-2025,32,40,30,26,22,19,16
+9898,French Language and Literature A Level,june-2025,33,40,30,26,22,19,16
+8028,French Language AS Level,june-2025,04,65,56,52,46,40,34
+8028,French Language AS Level,june-2025,11,40,33,30,26,21,17
+8028,French Language AS Level,june-2025,12,40,32,29,25,20,16
+8028,French Language AS Level,june-2025,13,40,33,30,26,21,17
+8028,French Language AS Level,june-2025,21,40,30,27,24,20,17
+8028,French Language AS Level,june-2025,22,40,29,26,23,19,16
+8028,French Language AS Level,june-2025,23,40,30,27,24,20,17
+8028,French Language AS Level,june-2025,31,40,30,26,22,19,16
+8028,French Language AS Level,june-2025,32,40,30,26,22,19,16
+8028,French Language AS Level,june-2025,33,40,30,26,22,19,16
+9231,Further Mathematics A Level,june-2025,11,75,52,40,33,26,20
+9231,Further Mathematics A Level,june-2025,12,75,52,40,33,26,20
+9231,Further Mathematics A Level,june-2025,13,75,52,43,35,27,20
+9231,Further Mathematics A Level,june-2025,14,75,61,48,40,32,24
+9231,Further Mathematics A Level,june-2025,21,75,62,50,44,37,31
+9231,Further Mathematics A Level,june-2025,22,75,62,50,44,37,31
+9231,Further Mathematics A Level,june-2025,23,75,62,50,44,37,31
+9231,Further Mathematics A Level,june-2025,24,75,66,54,48,42,35
+9231,Further Mathematics A Level,june-2025,31,50,27,22,18,15,10
+9231,Further Mathematics A Level,june-2025,32,50,27,22,18,15,10
+9231,Further Mathematics A Level,june-2025,33,50,29,22,18,14,10
+9231,Further Mathematics A Level,june-2025,34,50,33,27,22,18,13
+9231,Further Mathematics A Level,june-2025,41,50,34,28,22,16,10
+9231,Further Mathematics A Level,june-2025,42,50,34,28,22,16,10
+9231,Further Mathematics A Level,june-2025,43,50,40,31,25,19,12
+9231,Further Mathematics A Level,june-2025,44,50,43,38,33,26,20
+9231,Further Mathematics A Level,june-2025,51,75,51,42,33,24,15
+9696,Geography,june-2025,11,60,36,32,28,24,20
+9696,Geography,june-2025,12,60,32,29,25,21,18
+9696,Geography,june-2025,13,60,36,32,28,24,20
+9696,Geography,june-2025,21,60,34,30,26,22,18
+9696,Geography,june-2025,22,60,34,30,26,22,18
+9696,Geography,june-2025,23,60,34,30,26,22,18
+9696,Geography,june-2025,31,60,31,27,24,21,17
+9696,Geography,june-2025,32,60,31,27,24,21,17
+9696,Geography,june-2025,33,60,31,27,24,21,17
+9696,Geography,june-2025,41,60,30,26,23,20,17
+9696,Geography,june-2025,42,60,32,28,25,21,18
+9696,Geography,june-2025,43,60,32,28,25,21,18
+9696,Geography,june-2025,50,75,54,45,36,27,18
+9696,Geography,june-2025,60,75,54,45,36,27,18
+9897,German Language & Literature,june-2025,12,40,32,28,26,22,18
+9897,German Language & Literature,june-2025,22,40,28,24,20,17,14
+9897,German Language & Literature,june-2025,32,40,28,24,20,17,14
+8027,German Language,june-2025,04,65,53,49,43,37,32
+8027,German Language,june-2025,12,40,28,25,22,19,16
+8027,German Language,june-2025,13,40,28,25,22,19,16
+8027,German Language,june-2025,22,40,30,27,23,20,16
+8027,German Language,june-2025,23,40,30,27,23,20,16
+8027,German Language,june-2025,32,40,33,30,26,23,20
+8027,German Language,june-2025,33,40,33,30,26,23,20
+9239,Global Perspectives & Research,june-2025,02,40,29,26,24,22,20
+9239,Global Perspectives & Research,june-2025,03,40,28,26,24,22,20
+9239,Global Perspectives & Research,june-2025,04,85,57,52,46,40,34
+9239,Global Perspectives & Research,june-2025,11,45,34,32,30,28,26
+9239,Global Perspectives & Research,june-2025,12,45,34,32,30,28,26
+9239,Global Perspectives & Research,june-2025,13,45,34,32,30,28,26
+9487,Hinduism,june-2025,01,60,41,34,28,21,15
+9487,Hinduism,june-2025,02,60,34,29,24,20,15
+9487,Hinduism,june-2025,03,60,36,30,25,19,14
+9487,Hinduism,june-2025,04,60,36,30,25,20,15
+9489,History,june-2025,11,40,23,19,16,14,12
+9489,History,june-2025,12,40,22,19,16,14,12
+9489,History,june-2025,13,40,23,20,17,14,12
+9489,History,june-2025,21,60,38,33,30,26,22
+9489,History,june-2025,22,60,39,32,28,24,20
+9489,History,june-2025,23,60,39,32,28,24,20
+9489,History,june-2025,31,40,30,27,23,20,17
+9489,History,june-2025,32,40,30,27,23,20,17
+9489,History,june-2025,33,40,30,27,23,20,17
+9489,History,june-2025,41,60,41,37,33,28,23
+9489,History,june-2025,42,60,41,37,33,28,23
+9489,History,june-2025,43,60,41,37,33,28,23
+9626,Information Technology,june-2025,02,90,63,55,49,42,36
+9626,Information Technology,june-2025,04,90,65,59,51,42,33
+9626,Information Technology,june-2025,11,70,36,33,28,23,18
+9626,Information Technology,june-2025,12,70,36,33,28,23,18
+9626,Information Technology,june-2025,13,70,35,31,26,21,16
+9626,Information Technology,june-2025,31,70,41,33,28,23,18
+9626,Information Technology,june-2025,32,70,41,33,28,23,18
+9626,Information Technology,june-2025,33,70,41,33,28,23,18
+9488,Islamic Studies,june-2025,12,50,39,34,29,25,21
+9488,Islamic Studies,june-2025,22,50,38,33,29,24,20
+9488,Islamic Studies,june-2025,32,50,39,34,29,24,19
+9488,Islamic Studies,june-2025,42,50,37,32,27,22,17
+8695,Language and Literature in English AS Level,june-2025,11,50,33,28,24,21,18
+8695,Language and Literature in English AS Level,june-2025,12,50,33,28,24,21,18
+8695,Language and Literature in English AS Level,june-2025,13,50,33,28,24,21,18
+8695,Language and Literature in English AS Level,june-2025,21,50,36,32,28,24,20
+8695,Language and Literature in English AS Level,june-2025,22,50,36,32,28,24,20
+8695,Language and Literature in English AS Level,june-2025,23,50,36,32,28,24,20
+9084,Law,june-2025,11,75,46,40,34,28,22
+9084,Law,june-2025,12,75,46,40,35,30,24
+9084,Law,june-2025,13,75,46,40,34,28,22
+9084,Law,june-2025,21,60,40,34,30,26,23
+9084,Law,june-2025,22,60,40,34,30,26,23
+9084,Law,june-2025,23,60,40,34,30,26,23
+9084,Law,june-2025,31,75,46,40,35,29,23
+9084,Law,june-2025,32,75,46,40,35,29,23
+9084,Law,june-2025,33,75,46,40,35,29,23
+9084,Law,june-2025,41,75,41,36,30,25,19
+9084,Law,june-2025,42,75,41,36,30,25,19
+9084,Law,june-2025,43,75,41,36,30,25,19
+9695,Literature in English,june-2025,11,50,36,32,28,24,20
+9695,Literature in English,june-2025,12,50,36,32,28,24,20
+9695,Literature in English,june-2025,13,50,36,32,28,24,20
+9695,Literature in English,june-2025,21,50,34,30,26,22,18
+9695,Literature in English,june-2025,22,50,34,30,26,22,18
+9695,Literature in English,june-2025,23,50,34,30,26,22,18
+9695,Literature in English,june-2025,31,50,38,32,28,23,19
+9695,Literature in English,june-2025,32,50,38,32,28,23,19
+9695,Literature in English,june-2025,33,50,38,32,28,23,19
+9695,Literature in English,june-2025,41,50,40,34,29,24,19
+9695,Literature in English,june-2025,42,50,40,34,29,24,19
+9695,Literature in English,june-2025,43,50,40,34,29,24,19
+9693,Marine Science,june-2025,11,75,50,41,33,26,19
+9693,Marine Science,june-2025,12,75,51,42,35,28,20
+9693,Marine Science,june-2025,13,75,51,42,35,28,20
+9693,Marine Science,june-2025,21,75,49,42,36,30,24
+9693,Marine Science,june-2025,22,75,48,41,35,29,24
+9693,Marine Science,june-2025,23,75,48,41,35,29,24
+9693,Marine Science,june-2025,31,75,49,43,37,30,23
+9693,Marine Science,june-2025,32,75,49,43,36,29,23
+9693,Marine Science,june-2025,33,75,49,43,36,29,23
+9693,Marine Science,june-2025,41,75,52,46,38,31,24
+9693,Marine Science,june-2025,42,75,52,46,39,32,24
+9693,Marine Science,june-2025,43,75,52,46,39,32,24
+9709,Mathematics,june-2025,11,75,59,50,38,26,15
+9709,Mathematics,june-2025,12,75,61,52,40,28,16
+9709,Mathematics,june-2025,13,75,62,54,41,28,15
+9709,Mathematics,june-2025,15,75,64,54,40,27,14
+9709,Mathematics,june-2025,21,50,38,32,25,19,12
+9709,Mathematics,june-2025,22,50,38,31,25,18,11
+9709,Mathematics,june-2025,23,50,38,31,25,18,11
+9709,Mathematics,june-2025,25,50,38,31,25,18,11
+9709,Mathematics,june-2025,31,75,55,49,38,27,16
+9709,Mathematics,june-2025,32,75,55,47,37,27,16
+9709,Mathematics,june-2025,33,75,52,46,36,26,16
+9709,Mathematics,june-2025,35,75,55,49,38,27,16
+9709,Mathematics,june-2025,41,50,43,37,29,21,12
+9709,Mathematics,june-2025,42,50,43,39,35,32,29
+9709,Mathematics,june-2025,43,50,41,34,26,18,10
+9709,Mathematics,june-2025,45,50,41,35,28,20,13
+9709,Mathematics,june-2025,51,50,41,35,28,21,14
+9709,Mathematics,june-2025,52,50,39,33,26,18,11
+9709,Mathematics,june-2025,53,50,42,36,29,21,14
+9709,Mathematics,june-2025,55,50,41,37,30,23,16
+9709,Mathematics,june-2025,59,75,64,59,49,39,30
+9709,Mathematics,june-2025,60,75,64,59,52,45,37
+9709,Mathematics,june-2025,61,50,40,35,29,23,16
+9709,Mathematics,june-2025,62,50,43,37,30,23,16
+9709,Mathematics,june-2025,63,50,39,35,28,22,16
+9709,Mathematics,june-2025,65,50,42,38,31,24,17
+9607,Media Studies,june-2025,01,50,40,35,30,25,20
+9607,Media Studies,june-2025,03,50,40,35,30,25,20
+9607,Media Studies,june-2025,21,50,39,33,29,26,23
+9607,Media Studies,june-2025,22,50,39,33,29,26,23
+9607,Media Studies,june-2025,23,50,39,33,29,26,23
+9607,Media Studies,june-2025,41,60,46,40,35,30,24
+9607,Media Studies,june-2025,42,60,46,40,35,30,24
+9607,Media Studies,june-2025,43,60,46,40,35,30,24
+9483,Music,june-2025,02,100,75,65,56,48,40
+9483,Music,june-2025,03,100,80,70,60,50,40
+9483,Music,june-2025,04,100,80,70,60,50,40
+9483,Music,june-2025,05,100,80,70,60,50,40
+9483,Music,june-2025,11,100,70,57,49,40,31
+9483,Music,june-2025,12,100,70,57,49,40,31
+9483,Music,june-2025,13,100,70,57,49,40,31
+9702,Physics,june-2025,11,40,29,26,22,19,16
+9702,Physics,june-2025,12,40,30,26,22,18,15
+9702,Physics,june-2025,13,40,30,26,22,19,16
+9702,Physics,june-2025,14,40,28,24,20,17,14
+9702,Physics,june-2025,21,60,42,37,31,25,18
+9702,Physics,june-2025,22,60,43,37,30,24,16
+9702,Physics,june-2025,23,60,40,34,28,22,15
+9702,Physics,june-2025,24,60,40,33,27,21,15
+9702,Physics,june-2025,31,40,31,29,26,24,22
+9702,Physics,june-2025,32,40,30,27,25,23,21
+9702,Physics,june-2025,33,40,32,29,26,23,20
+9702,Physics,june-2025,34,40,31,27,24,21,18
+9702,Physics,june-2025,35,40,33,30,26,23,20
+9702,Physics,june-2025,37,40,32,29,26,23,20
+9702,Physics,june-2025,38,40,31,27,24,21,18
+9702,Physics,june-2025,41,100,64,52,42,31,20
+9702,Physics,june-2025,42,100,60,50,41,32,22
+9702,Physics,june-2025,43,100,64,52,42,31,20
+9702,Physics,june-2025,44,100,62,53,42,31,19
+9702,Physics,june-2025,50,75,59,53,44,35,27
+9702,Physics,june-2025,51,30,19,16,13,11,8
+9702,Physics,june-2025,52,30,21,18,15,13,10
+9702,Physics,june-2025,53,30,19,16,13,11,8
+9702,Physics,june-2025,54,30,23,20,17,14,11
+9718,Portuguese A Level,june-2025,01,100,78,68,61,54,48
+9718,Portuguese A Level,june-2025,02,70,48,43,38,32,26
+9718,Portuguese A Level,june-2025,03,40,32,28,24,20,17
+9718,Portuguese A Level,june-2025,04,75,55,48,43,39,35
+8684,Portuguese Language AS Level,june-2025,01,100,68,61,54,48,42
+8684,Portuguese Language AS Level,june-2025,02,70,43,37,31,26,21
+8684,Portuguese Language AS Level,june-2025,03,40,28,24,20,17,14
+9990,Psychology,june-2025,11,60,37,32,28,24,20
+9990,Psychology,june-2025,12,60,45,40,34,28,23
+9990,Psychology,june-2025,13,60,38,33,28,24,20
+9990,Psychology,june-2025,21,60,36,33,29,25,22
+9990,Psychology,june-2025,22,60,39,35,31,27,23
+9990,Psychology,june-2025,23,60,40,37,33,28,24
+9990,Psychology,june-2025,31,60,32,28,23,19,14
+9990,Psychology,june-2025,32,60,32,27,23,19,13
+9990,Psychology,june-2025,33,60,32,28,23,19,14
+9990,Psychology,june-2025,41,60,29,25,22,18,14
+9990,Psychology,june-2025,42,60,31,26,22,18,15
+9990,Psychology,june-2025,43,60,29,25,22,18,14
+9990,Psychology,june-2025,50,75,54,45,36,27,18
+9990,Psychology,june-2025,60,75,54,45,36,27,18
+9699,Sociology,june-2025,11,60,42,37,31,25,19
+9699,Sociology,june-2025,12,60,42,37,32,27,23
+9699,Sociology,june-2025,13,60,42,37,32,27,23
+9699,Sociology,june-2025,21,60,36,32,27,22,17
+9699,Sociology,june-2025,22,60,36,32,27,22,17
+9699,Sociology,june-2025,23,60,36,32,27,22,17
+9699,Sociology,june-2025,31,50,37,34,29,25,21
+9699,Sociology,june-2025,32,50,37,34,29,25,21
+9699,Sociology,june-2025,33,50,37,34,29,25,21
+9699,Sociology,june-2025,41,70,49,46,42,37,32
+9699,Sociology,june-2025,42,70,49,46,42,37,32
+9699,Sociology,june-2025,43,70,49,46,42,37,32
+9844,Spanish Language and Literature A Level,june-2025,11,40,21,18,16,14,10
+9844,Spanish Language and Literature A Level,june-2025,12,40,25,22,19,16,11
+9844,Spanish Language and Literature A Level,june-2025,13,40,25,22,19,16,11
+9844,Spanish Language and Literature A Level,june-2025,21,40,29,25,21,17,14
+9844,Spanish Language and Literature A Level,june-2025,22,40,29,25,21,17,14
+9844,Spanish Language and Literature A Level,june-2025,23,40,29,25,21,17,14
+9844,Spanish Language and Literature A Level,june-2025,31,40,25,21,18,15,13
+9844,Spanish Language and Literature A Level,june-2025,32,40,25,21,18,15,13
+9844,Spanish Language and Literature A Level,june-2025,33,40,25,21,18,15,13
+8022,Spanish Language AS Level,june-2025,04,65,56,52,46,40,34
+8022,Spanish Language AS Level,june-2025,11,40,31,28,25,21,18
+8022,Spanish Language AS Level,june-2025,12,40,31,28,25,21,18
+8022,Spanish Language AS Level,june-2025,13,40,31,28,25,21,18
+8022,Spanish Language AS Level,june-2025,21,40,28,25,22,18,15
+8022,Spanish Language AS Level,june-2025,22,40,28,25,22,18,15
+8022,Spanish Language AS Level,june-2025,23,40,28,25,22,18,15
+8022,Spanish Language AS Level,june-2025,31,40,33,30,26,23,20
+8022,Spanish Language AS Level,june-2025,32,40,33,30,26,23,20
+8022,Spanish Language AS Level,june-2025,33,40,33,30,26,23,20
+8386,Sport & Physical Education AS Level,june-2025,02,70,52,45,38,32,26
+8386,Sport & Physical Education AS Level,june-2025,11,70,49,44,39,33,28
+8386,Sport & Physical Education AS Level,june-2025,12,70,49,44,39,33,28
+8386,Sport & Physical Education AS Level,june-2025,13,70,49,44,39,33,28
+9689,Tamil A Level,june-2025,22,70,52,46,41,34,28
+9689,Tamil A Level,june-2025,32,40,29,25,21,18,15
+9689,Tamil A Level,june-2025,42,75,39,36,31,27,23
+9689,Tamil A Level,june-2025,52,40,28,23,20,17,15
+8689,Tamil Language AS Level,june-2025,22,70,46,40,34,28,22
+8689,Tamil Language AS Level,june-2025,32,40,25,21,18,15,12
+9694,Thinking Skills,june-2025,11,50,32,27,22,17,12
+9694,Thinking Skills,june-2025,12,50,32,27,22,17,12
+9694,Thinking Skills,june-2025,13,50,32,27,22,17,12
+9694,Thinking Skills,june-2025,21,50,30,25,21,18,15
+9694,Thinking Skills,june-2025,22,50,31,26,22,19,16
+9694,Thinking Skills,june-2025,23,50,31,26,22,19,16
+9694,Thinking Skills,june-2025,31,50,33,27,23,18,13
+9694,Thinking Skills,june-2025,32,50,31,26,22,18,13
+9694,Thinking Skills,june-2025,33,50,31,26,22,18,13
+9694,Thinking Skills,june-2025,41,50,29,25,21,17,14
+9694,Thinking Skills,june-2025,42,50,29,25,21,17,14
+9694,Thinking Skills,june-2025,43,50,29,25,21,17,14
+9395,Travel and Tourism,june-2025,02,50,42,37,32,27,23
+9395,Travel and Tourism,june-2025,11,75,62,58,55,51,47
+9395,Travel and Tourism,june-2025,12,75,62,58,55,51,47
+9395,Travel and Tourism,june-2025,13,75,62,58,55,51,47
+9395,Travel and Tourism,june-2025,31,50,31,25,21,17,12
+9395,Travel and Tourism,june-2025,32,50,31,25,21,17,12
+9395,Travel and Tourism,june-2025,33,50,31,25,21,17,12
+9395,Travel and Tourism,june-2025,41,50,34,29,24,20,16
+9395,Travel and Tourism,june-2025,42,50,34,29,24,20,16
+9395,Travel and Tourism,june-2025,43,50,34,29,24,20,16
+9686,Urdu A Level,june-2025,02,70,62,56,50,44,37
+9686,Urdu A Level,june-2025,03,40,32,28,24,20,17
+9686,Urdu A Level,june-2025,04,75,56,50,45,41,36
+8686,Urdu Language AS Level,june-2025,02,70,56,49,43,37,31
+8686,Urdu Language AS Level,june-2025,03,40,28,24,20,17,14
 9706,Accounting,march-2025,12,30,22,18,15,13,11
 9706,Accounting,march-2025,22,90,60,50,42,34,25
 9706,Accounting,march-2025,32,75,47,40,33,25,17
